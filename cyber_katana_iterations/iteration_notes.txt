@@ -1,0 +1,4 @@
+
+000 = Sun, January 24 2021 @ 02:20:54 :: Somewhat ok handle
+001 = Sun, January 24 2021 @ 02:33:37 :: add inside
+002 = Sun, January 24 2021 @ 02:41:31 :: Before going to bed
