@@ -1,5 +1,5 @@
 # CyberPunk-CyberKatana
-### Hongjun Wu
+### Modeled & Textured by Hongjun Wu
 ### Instagram: [@errrneist](https://www.instagram.com/errrneist/) | [@errrneist_art](https://www.instagram.com/errrneist_art/)
 ### Art Station: [@hongjunwu](https://hongjunwu.artstation.com/)
 * The CyberKatana in Cyberpunk 2077 made in Maya!
