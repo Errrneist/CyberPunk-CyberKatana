@@ -4,6 +4,8 @@
 ### Art Station: [@hongjunwu](https://hongjunwu.artstation.com/)
 * The CyberKatana in Cyberpunk 2077 made in Maya!
 
+![Render](https://github.com/Errrneist/CyberPunk-CyberKatana/blob/main/turntable/renders/textured_turntable/cyberkatana_turntable_denoise_0001.png?raw=true)
+
 # Releases
 * Get the newest version from [Releases](https://github.com/Errrneist/CyberPunk-CyberKatana/releases).
 
